@@ -36,9 +36,11 @@ Communication avec la base de données afin d'envoyer les données via des route
 ### Cron Job
 Mise en place d'un script php permettant de récupérer les IP des serveurs afin de mettre à disposition le catalogue des produits de chaque serveurs.
 
-# Infrastructure
-#### (insérer nom)
-insérer travail réaliser.
+# Réseaux
+#### Florian DAGNAS - Enzo ARCHARD - Noa LAUVRAY
+## Infrastructure - Cisco Packet Tracer
+## Cybersécurité - Analyse de risque
+## DevOps - Docker-Compose
 
 # Data
 #### (insérer nom)
